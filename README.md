@@ -1,3 +1,8 @@
+**This is a fork of https://github.com/lafikl/consistent with the pending pull requests
+at this time (2018-04-21) merged.**
+
+I've only used this code for demo purposes, not production.
+
 # Package consistent
 A Golang implementation of Consistent Hashing and Consistent Hashing With Bounded Loads.
 
